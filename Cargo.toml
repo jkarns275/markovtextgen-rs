@@ -5,3 +5,4 @@ authors = ["jkarn"]
 
 [dependencies]
 rand = "0.3.0"
+regex = "0.1"
